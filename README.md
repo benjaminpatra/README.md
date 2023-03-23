@@ -2,12 +2,19 @@
 
 My name is Benjamin. I am currently an Insurance Supervisor at ACPR - Banque de France 🏦.
 
-I graduated from ENSAE Paris with a major in  & Data Science. I am also an SFA (Statistics, Finance quantitative, Actuarial Science) alumni from Polytechnique Paris; this master degree is the most prestigious one in the field of Quantitative Finance in France.
+I graduated from ENSAE Paris as Statistician Economist with a major in Actuarial & Data Sciences. I am also an SFA (Statistics, Finance quantitative, Actuarial Science) alumni from Polytechnique Paris; this master degree is one of the most prestigious one in the field of Quantitative Finance in France. 
+
+I'm also member of the French Actuaries Institut 📈.
 
 My main fields of interests are:
-- NLP \& Speech
-- Computer Vision
-- Robotics & Automation
+- Fiancial Reinsurance (ILS)
+- AI applied to (Re)-Insurance linked with climate risk
+- Sovereign Bonds
+- Quantitative Finance 
+- Green Finance
+- Market Microstructure
+
+Contact : benjamin_patra[at]ensae[dot]fr
 
 ---
 ### 🔭 What I work with 
@@ -18,17 +25,17 @@ My main fields of interests are:
 ![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/ML-Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white&color=green)
 ![Jupyter Notebook](https://img.shields.io/badge/ML-Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white&color=orange)
-![SciPy](https://img.shields.io/badge/ML-SciPy-%230C55A5.svg?style=flat&logo=Scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?style=flat&logo=Scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/ML-Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
-#### Front-end
 
-![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=red)
-![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f1e05a)
-![](https://img.shields.io/badge/Web-Dash_Plotly-informational?style=flat&logo=plotly&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Web-React_Native-informational?style=flat&logo=react&logoColor=white&color=61dafb)
+#### Data Visualisation
+
+![R-shiny](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)
+![ggplot](https://img.shields.io/badge/ggplot2.svg?style=flat&logo=Plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
+
+
 
 #### Back-end
 
