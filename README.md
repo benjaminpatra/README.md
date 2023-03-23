@@ -35,8 +35,6 @@ Contact : benjamin_patra[at]ensae[dot]fr
 ![ggplot](https://img.shields.io/badge/ggplot2.svg?style=flat&logo=Plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
 
-
-
 #### Back-end
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3675aa)
