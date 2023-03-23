@@ -32,7 +32,7 @@ Contact : benjamin_patra[at]ensae[dot]fr
 #### Data Visualisation
 
 ![R-shiny](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)
-![ggplot](https://img.shields.io/badge/ggplot2.svg?style=flat&logo=Plotly&logoColor=white)
+![ggplot](https://img.shields.io/badge/Viz-ggplot2-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
 
 #### Back-end
@@ -41,11 +41,6 @@ Contact : benjamin_patra[at]ensae[dot]fr
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=A8A4A3)
 ![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=black)
-
-
-#### Cloud
-
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 
 #### SysAdmin
 
