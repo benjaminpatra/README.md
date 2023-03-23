@@ -84,7 +84,7 @@ My main fields of interests are:
 ---
 ### 💬 Where to contact me 
 
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-chloe_sekkat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-patra/)](https://www.linkedin.com/in/benjamin-patra/)
+- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-benjamin_patra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-patra/)](https://www.linkedin.com/in/benjamin-patra/)
 ---
 ### ⚡ My hobbies
 
