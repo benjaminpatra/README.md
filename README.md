@@ -7,7 +7,7 @@ I graduated from ENSAE Paris as Statistician Economist with a major in Actuarial
 I'm also member of the French Actuaries Institut 📈.
 
 My main fields of interests are:
-- Fiancial Reinsurance (ILS)
+- Financial Reinsurance (ILS)
 - AI applied to (Re)-Insurance linked with climate risk
 - Sovereign Bonds
 - Quantitative Finance 
