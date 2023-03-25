@@ -8,7 +8,7 @@ I'm also member of the French Actuaries Institut 📈.
 
 My main fields of interests are:
 - Financial Reinsurance (ILS)
-- AI applied to (Re)-Insurance linked with climate risk
+- AI applied to (Re)-Insurance linked focus on climate risk
 - Sovereign Bonds
 - Quantitative Finance 
 - Green Finance
