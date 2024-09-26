@@ -2,23 +2,20 @@
 
 My name is Benjamin. I am currently an Insurance Supervisor at ACPR - Banque de France 🏦.
 
-I graduated from ENSAE Paris as Statistician Economist with a major in Actuarial & Data Sciences. I am also an SFA (Statistics, Finance quantitative, Actuarial Science) alumni from Polytechnique Paris; this master degree is one of the most prestigious one in the field of Quantitative Finance in France. 
-
+I graduated from ENSAE Paris as Statistician Economist with a major in Actuarial & Data Science and from Polytechnique Paris in Quantitative Finance. 
 I'm also member of the French Actuaries Institut 📈.
 
 My main fields of interests are:
 - Financial Reinsurance (ILS)
 - AI applied to (Re)-Insurance linked focus on climate risk
-- Sovereign Bonds
-- Quantitative Finance 
-- Green Finance
-- Market Microstructure
+- Rates and sovereign Bonds
+- Climate risks on Assets and Liabilities / Green Finance 
 
 ---
 ### 💬 Where to contact me 
 
 - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-benjamin_patra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-patra/)](https://www.linkedin.com/in/benjamin-patra/)
-- Mail : benjamin_patra[at]ensae[dot]fr 📨
+- Mail : benjamin.patra[at]gmail[dot]fr 📨
 ---
 
 ### 🔭 What I work with 
@@ -63,4 +60,5 @@ My main fields of interests are:
 - Travels 🗺
 - Running 🏃‍
 - Bouldering 🧗
+- Triahtlon
 ---
