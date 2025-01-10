@@ -3,13 +3,14 @@
 My name is Benjamin. I am currently an Insurance Supervisor at ACPR - Banque de France 🏦.
 
 I graduated from ENSAE Paris as Statistician Economist with a major in Actuarial & Data Science and from Polytechnique Paris in Quantitative Finance. 
-I'm also member of the French Actuaries Institut 📈.
+I'm also member of the French Actuaries Institute 📈.
 
 My main fields of interests are:
-- Financial Reinsurance (ILS)
-- AI applied to (Re)-Insurance linked focus
-- Rates and sovereign Bonds (emerging debt)
-- Climate risks on Assets and Liabilities / Green Finance 
+- ALM, Solvency 2
+- Data science
+- Capital Markets specially Fixed Income and EM
+- Reinsurance and ILS
+- Climate risks / Green Finance 
 
 ---
 ### 💬 Where to contact me 
