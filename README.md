@@ -10,7 +10,8 @@ My main fields of interests are:
 - Data science
 - Capital Markets specially Fixed Income and EM
 - Reinsurance and ILS
-- Climate risks / Green Finance 
+- Climate risks / Green Finance
+- Macroeconomics 
 
 ---
 ### 💬 Where to contact me 
