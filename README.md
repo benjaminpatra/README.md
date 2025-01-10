@@ -21,15 +21,12 @@ My main fields of interests are:
 
 ### 🔭 What I work with 
 
-#### Artificial Intelligence 
+#### Programming Languages
 
-![PyTorch](https://img.shields.io/badge/DL-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![Anaconda](https://img.shields.io/badge/ML-Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3675aa)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=A8A4A3)
 ![Jupyter Notebook](https://img.shields.io/badge/ML-Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white&color=orange)
-![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?style=flat&logo=Scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/ML-Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
 
 #### Data Visualisation
 
@@ -37,29 +34,26 @@ My main fields of interests are:
 ![ggplot](https://img.shields.io/badge/Viz-ggplot2-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
 
-#### Programming Languages
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3675aa)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=A8A4A3)
-
 #### Text & Code Editors
 
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1182c2)
 ![Rstudio](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)
 ![](https://img.shields.io/badge/Editor-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Editor-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=404D59)
 
 ---
-### 🌱 What I'd like to learn 💡
+### 🌱 What I'd like to work with 💡
 
-
+![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?style=flat&logo=Scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/DL-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![Anaconda](https://img.shields.io/badge/ML-Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white&color=green)
 ---
 ### ⚡ My hobbies
 
 - Sailing ⛵
-- Travels 🗺
-- Running 🏃‍
+- Travel and Hiking 🗺
+- Trail running 🏃‍
 - Bouldering 🧗
 - Triahtlon
 ---
